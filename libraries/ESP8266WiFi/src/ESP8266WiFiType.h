@@ -23,7 +23,7 @@
 #ifndef ESP8266WIFITYPE_H_
 #define ESP8266WIFITYPE_H_
 
-#include <queue.h>
+//#include <queue.h>
 
 #define WIFI_SCAN_RUNNING   (-1)
 #define WIFI_SCAN_FAILED    (-2)
